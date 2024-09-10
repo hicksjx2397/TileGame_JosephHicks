@@ -118,7 +118,7 @@ public class TileMain {
 		
 		
 		
-		
+		in.close();
 	}
 
 	private static void GameState(int curTile, TileGraph tile) {
